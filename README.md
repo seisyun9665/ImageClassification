@@ -8,3 +8,10 @@
 
 #### x-meansによる画像クラスタリング
 複数の特徴ベクトルを、いくつかのクラスタに分類する。
+
+### 参考
+torchvision の事前学習済みモデルMobilenetV3で入力画像の特徴量を抽出<br>
+https://www.system-server.com/wp/blog/441/
+
+X-meansで画像の特徴量をクラスタリングし、画像を分類する<br>
+https://pystyle.info/pytorch-how-to-use-pretrained-model/
